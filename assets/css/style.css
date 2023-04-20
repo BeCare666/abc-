@@ -404,8 +404,12 @@ h6,
 
   #hero .hero-img img {
     width: 50%;
+    height: 90% !important;
   }
+  
 }
+
+
 
 @media (max-width: 768px) {
   #hero h1 {
